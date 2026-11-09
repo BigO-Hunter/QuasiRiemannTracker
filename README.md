@@ -1,3 +1,5 @@
+> **BigO-Hunter fork notice.** The org's copy of [GTimG/QuasiRiemannTracker](https://github.com/GTimG/QuasiRiemannTracker) — the quasi-Riemann bounds tracker whose reuse flow the org's independent reruns feed (see quasi-riemann-baseline-rerun). Upstream's README below is unchanged; upstream's Apache-2.0 license applies.
+
 # Quasi-Riemann Tracker
 
 Live: [gtimg.github.io/QuasiRiemannTracker](https://gtimg.github.io/QuasiRiemannTracker/)
