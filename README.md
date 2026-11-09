@@ -1,4 +1,4 @@
-> **BigO-Hunter fork notice.** The org's copy of [GTimG/QuasiRiemannTracker](https://github.com/GTimG/QuasiRiemannTracker) — the quasi-Riemann bounds tracker whose reuse flow the org's independent reruns feed (see quasi-riemann-baseline-rerun). Upstream's README below is unchanged; upstream's Apache-2.0 license applies.
+> **BigO-Hunter fork notice.** The org's copy of [GTimG/QuasiRiemannTracker](https://github.com/GTimG/QuasiRiemannTracker) — the quasi-Riemann bounds tracker whose reuse flow the org's independent reruns feed (see quasi-riemann-baseline-rerun). Upstream's README below is unchanged; the org stamps this copy's LICENSE with the Copy-Free/Stays-Free (CFSF) License — see [LICENSE](LICENSE) ([github.com/darkhipo/cfsf](https://github.com/darkhipo/cfsf)) (upstream's own Apache-2.0 remains as published — see [NOTICE](NOTICE.md)).
 
 # Quasi-Riemann Tracker
 
